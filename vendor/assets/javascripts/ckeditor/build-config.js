@@ -78,7 +78,7 @@ var CKBUILDER_CONFIG = {
 		'indentlist' : 1,
 		'justify' : 1,
 		'language' : 1,
-		'link' : 1,
+		'SimpleLink' : 1,
 		'list' : 1,
 		'liststyle' : 1,
 		'magicline' : 1,
