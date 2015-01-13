@@ -79,6 +79,7 @@ var CKBUILDER_CONFIG = {
 		'justify' : 1,
 		'language' : 1,
 		'SimpleLink' : 1,
+		'youtube' : 1,
 		'list' : 1,
 		'liststyle' : 1,
 		'magicline' : 1,
